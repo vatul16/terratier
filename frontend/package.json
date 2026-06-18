@@ -1,7 +1,7 @@
 {
   "name": "goal-tracker-frontend",
   "version": "1.0.0",
-  "description": "Frontend for CloudOps Goal Tracker",
+  "description": "Frontend for Goal Tracker",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
