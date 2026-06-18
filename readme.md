@@ -34,7 +34,7 @@ This repository is the infrastructure layer for a small "DevOps Goal Tracker" de
 
 ![Architecture diagram](./assets/aws_3tier_architecture_overview.png)
 
-*(Export your draw.io diagram as PNG/SVG into `assets/architecture-diagram.png` — see [ARCHITECTURE.md](terraform-infra/ARCHITECTURE.md) for the full text-based breakdown of every component, traffic flow, and scaling policy.)*
+*(see [ARCHITECTURE.md](terraform-infra/ARCHITECTURE.md) for the full text-based breakdown of every component, traffic flow, and scaling policy.)*
 
 At a glance:
 
