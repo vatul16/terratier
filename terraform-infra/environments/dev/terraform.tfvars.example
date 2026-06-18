@@ -44,8 +44,8 @@ db_backup_retention     = 7
 db_skip_final_snapshot  = true   # false for production
 
 # Docker Hub Configuration
-frontend_docker_image = "your-dockerhub-username/goal-tracker-frontend:latest"
-backend_docker_image  = "your-dockerhub-username/goal-tracker-backend:latest"
+frontend_docker_image = "atulv16/goal-tracker-frontend:latest"
+backend_docker_image  = "atulv16/goal-tracker-backend:latest"
 dockerhub_username    = ""  # Leave empty for public images
 dockerhub_password    = ""  # Leave empty for public images, or use access token
 

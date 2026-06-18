@@ -91,7 +91,7 @@ else
         echo "Please provide your Docker Hub username or image names:"
         echo ""
         echo "Option 1: Run with username"
-        echo "  $0 your-dockerhub-username"
+        echo "  $0 atulv16"
         echo ""
         echo "Option 2: Run with full image names"
         echo "  $0 username/frontend:latest username/backend:latest"

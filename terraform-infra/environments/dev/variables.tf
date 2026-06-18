@@ -182,13 +182,13 @@ variable "db_skip_final_snapshot" {
 variable "frontend_docker_image" {
   description = "Frontend Docker image (e.g., username/frontend:latest)"
   type        = string
-  default     = "your-dockerhub-username/goal-tracker-frontend:latest"
+  default     = "atulv16/goal-tracker-frontend:latest"
 }
 
 variable "backend_docker_image" {
   description = "Backend Docker image (e.g., username/backend:latest)"
   type        = string
-  default     = "your-dockerhub-username/goal-tracker-backend:latest"
+  default     = "atulv16/goal-tracker-backend:latest"
 }
 
 variable "dockerhub_username" {
