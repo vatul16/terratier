@@ -259,4 +259,4 @@ This project is licensed under the [MIT License](LICENSE).
 **Atul Vishwakarma**
 Cloud/DevOps Engineer · [LinkedIn](https://linkedin.com/in/vatul16) · [GitHub](https://github.com/vatul16)
 
-If you have questions about a specific design decision, see [`ARTICLE.md`](ARTICLE.md) for the full write-up of why this architecture looks the way it does.
+If you have questions about a specific design decision, see [`ARTICLE`](https://dev.to/vatul16/building-a-production-grade-3-tier-aws-architecture-with-terraform-design-decisions-trade-offs-370f) for the full write-up of why this architecture looks the way it does.
