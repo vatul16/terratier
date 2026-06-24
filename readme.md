@@ -45,7 +45,7 @@ At a glance:
 
 ## Why this design
 
-A few decisions are worth calling out, since they're the parts an interviewer is likely to ask about:
+A few decisions are worth calling out:
 
 **Two ALBs, not one.** The frontend and backend are scaled and deployed independently, each behind its own ALB (one public, one internal-only). This mirrors how you'd front a real microservice rather than a monolith, and it means the backend API is never directly reachable from the internet — only from the frontend tier's security group.
 
